@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2254596701.index
+2437780389.index
+3782170918.index
+2077767538.index
+2425474796.index
+3803535653.index
