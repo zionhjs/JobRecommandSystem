@@ -8,8 +8,8 @@ import org.json.simple.JSONObject;
 
 import com.monkeylearn.ExtraParam;
 import com.monkeylearn.MonkeyLearn;
-import com.monkeylearn.MonkeyLearnException;
 import com.monkeylearn.MonkeyLearnResponse;
+import com.monkeylearn.MonkeyLearnException;
 
 public class MonkeyLearnClient {
 	private static final String API_KEY = "629c8cf9f2499cfbb1f0b1d005b982d6c065d04a";// make sure change it to your api key.
@@ -38,7 +38,7 @@ public class MonkeyLearnClient {
 		
 		MonkeyLearnResponse response;
 		try {
-			response = ml.extractors.extract("ex_YCya9nrn", text, extraParams);
+			response = ml.extractors.extract("YOUR_MODEL_ID", text, extraParams);
 			JSONArray resultArray = response.arrayResult;
 			return getKeywords(resultArray);
 		} catch (MonkeyLearnException e) {// it’s likely to have an exception

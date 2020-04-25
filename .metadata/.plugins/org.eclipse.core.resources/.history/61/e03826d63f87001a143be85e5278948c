@@ -1,0 +1,43 @@
+package external;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.json.JSONArray;
+
+import com.monkeylearn.ExtraParam;
+import com.monkeylearn.MonkeyLearn;
+import com.monkeylearn.MonkeyLearnResponse;
+import com.monkeylearn.MonkeyLearnException;
+
+public class MonkeyLearnClient {
+	private static final String API_KEY = "629c8cf9f2499cfbb1f0b1d005b982d6c065d04a";// make sure change it to your api key.
+	
+    public static void main( String[] args ) throws MonkeyLearnException {
+        MonkeyLearn ml = new MonkeyLearn("629c8cf9f2499cfbb1f0b1d005b982d6c065d04a");
+        String modelId = "ex_YCya9nrn";
+        String[] data = {"Elon Musk has shared a photo of the spacesuit designed by SpaceX. This is the second image shared of the new design and the first to feature the spacesuit’s full-body look."};
+        MonkeyLearnResponse res = ml.extractors.extract(modelId, data);
+        System.out.println( res.arrayResult );
+    }
+    
+    public static List<List<String>> extractKeywords(String[] text){
+    	if(text == null || text.length == 0) {
+    		return new ArrayList<>();
+    	}
+    	
+    	String modelId = "ex_YCya9nrn";
+    	
+		ExtraParam[] extraParams = { new ExtraParam("max_keywords", "3") };
+		
+		MonkeyLearnResponse response;
+		try {
+			response = ml.extractors.extract("YOUR_MODEL_ID", text, extraParams);
+			JSONArray resultArray = response.arrayResult;
+			return getKeywords(resultArray);
+		} catch (MonkeyLearnException e) {// it’s likely to have an exception
+			e.printStackTrace();
+		}
+		return new ArrayList<>();
+    }
+}
