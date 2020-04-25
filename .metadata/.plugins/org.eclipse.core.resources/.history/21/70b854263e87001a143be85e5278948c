@@ -1,0 +1,16 @@
+package external;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+import com.monkeylearn.ExtraParam;
+import com.monkeylearn.MonkeyLearn;
+import com.monkeylearn.MonkeyLearnException;
+import com.monkeylearn.MonkeyLearnResponse;
+
+public class MonkeyLearnClient {
+
+}

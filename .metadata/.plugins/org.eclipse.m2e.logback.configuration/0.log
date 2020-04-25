@@ -966,3 +966,130 @@
 2020-04-23 20:33:26,249 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
 2020-04-23 20:33:26,250 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-23 20:33:26,250 [Worker-393: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:38:28,451 [Worker-655: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: laiproject:jupiter:0.0.1-SNAPSHOT @ /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/pom.xml.
+2020-04-25 14:38:28,738 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5.pom
+2020-04-25 14:38:28,832 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5.pom
+2020-04-25 14:38:28,848 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.pom
+2020-04-25 14:38:28,934 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.pom
+2020-04-25 14:38:28,949 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.6/httpcomponents-client-4.2.6.pom
+2020-04-25 14:38:29,052 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.6/httpcomponents-client-4.2.6.pom
+2020-04-25 14:38:29,069 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2020-04-25 14:38:29,099 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2020-04-25 14:38:29,116 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.pom
+2020-04-25 14:38:29,134 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.pom
+2020-04-25 14:38:29,150 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.5/httpcomponents-core-4.2.5.pom
+2020-04-25 14:38:29,190 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.5/httpcomponents-core-4.2.5.pom
+2020-04-25 14:38:29,205 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2020-04-25 14:38:29,251 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2020-04-25 14:38:29,264 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2020-04-25 14:38:29,306 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2020-04-25 14:38:29,319 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom
+2020-04-25 14:38:29,367 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom
+2020-04-25 14:38:29,407 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2020-04-25 14:38:29,437 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2020-04-25 14:38:29,452 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2020-04-25 14:38:29,481 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2020-04-25 14:38:29,495 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2020-04-25 14:38:29,525 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2020-04-25 14:38:29,538 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2020-04-25 14:38:29,601 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2020-04-25 14:38:29,615 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2020-04-25 14:38:29,665 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2020-04-25 14:38:29,688 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2020-04-25 14:38:29,724 [Worker-655: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2020-04-25 14:38:29,780 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2020-04-25 14:38:29,868 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5.jar
+2020-04-25 14:38:29,883 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2020-04-25 14:38:29,884 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2020-04-25 14:38:29,914 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5.jar
+2020-04-25 14:38:29,916 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2020-04-25 14:38:33,255 [Worker-655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:33,255 [Worker-655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:38:33,257 [Worker-655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:33,259 [Worker-655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:38:33,259 [Worker-655: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jupiter
+2020-04-25 14:38:33,259 [Worker-655: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jupiter
+2020-04-25 14:38:33,263 [Worker-655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:33,846 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:33,846 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:38:33,848 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:33,848 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:38:34,174 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5-sources.jar
+2020-04-25 14:38:34,202 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/monkeylearn/monkeylearn-java/0.1.5/monkeylearn-java-0.1.5-sources.jar
+2020-04-25 14:38:34,211 [Worker-651: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.monkeylearn:monkeylearn-java:0.1.5
+2020-04-25 14:38:34,319 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2020-04-25 14:38:34,433 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+2020-04-25 14:38:34,456 [Worker-651: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.3.2
+2020-04-25 14:38:34,561 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2020-04-25 14:38:34,598 [Worker-651: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2020-04-25 14:38:34,620 [Worker-651: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2020-04-25 14:38:34,974 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:34,974 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:38:34,975 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:38:34,975 [Worker-649: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:43:28,994 [Worker-654: Launching Executing install in _Users_zionhugh_GoogleDrive_Folder_Code_Practices_Eclipse_jupiter] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter
+2020-04-25 14:43:28,994 [Worker-654: Launching Executing install in _Users_zionhugh_GoogleDrive_Folder_Code_Practices_Eclipse_jupiter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-25 14:43:33,710 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:43:33,710 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:43:33,711 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:43:33,711 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:45:18,493 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:18,493 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:45:18,494 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:18,494 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:45:30,920 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:30,920 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:45:30,921 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:30,921 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:45:59,039 [Worker-663: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:59,040 [Worker-663: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:45:59,041 [Worker-663: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:45:59,041 [Worker-663: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:46:03,402 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:03,402 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:46:03,403 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:03,404 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:46:23,829 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:23,830 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:46:23,832 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:23,832 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:46:32,840 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:32,840 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:46:32,841 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:46:32,841 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:47:39,047 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:47:39,047 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:47:39,049 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:47:39,049 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:47:57,526 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:47:57,526 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:47:57,527 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:47:57,528 [Worker-659: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:50:02,466 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:50:02,466 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:50:02,467 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:50:02,467 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:50:24,814 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:50:24,815 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:50:24,815 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:50:24,816 [Worker-660: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:52:09,344 [Worker-666: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:52:09,344 [Worker-666: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:52:09,345 [Worker-666: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:52:09,346 [Worker-666: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:54:15,477 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:54:15,477 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:54:15,478 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:54:15,479 [Worker-654: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:54:36,965 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:54:36,965 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:54:36,968 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:54:36,968 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:55:33,256 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:55:33,256 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:55:33,258 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:55:33,258 [Worker-667: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-04-25 14:56:20,904 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:56:20,904 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-04-25 14:56:20,906 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-25 14:56:20,906 [Worker-662: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
