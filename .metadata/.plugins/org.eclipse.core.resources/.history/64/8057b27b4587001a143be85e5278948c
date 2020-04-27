@@ -85,7 +85,7 @@ public class GItHubClient {
 		for (int i = 0; i < array.length(); ++i) {
 			JSONObject object = array.getJSONObject(i);
 			ItemBuilder builder = new ItemBuilder();
-
+			
 			builder.setItemId(getStringFieldOrEmpty(object, "id"));
 			builder.setName(getStringFieldOrEmpty(object, "title"));
 			builder.setAddress(getStringFieldOrEmpty(object, "location"));
