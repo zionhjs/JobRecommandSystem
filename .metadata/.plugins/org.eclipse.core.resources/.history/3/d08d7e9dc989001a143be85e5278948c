@@ -1,7 +1,6 @@
 package rpc;
 
 import java.io.IOException;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -42,7 +41,7 @@ public class ItemHistoryNew extends HttpServlet {
 		JSONObject input = RpcHelper.readJSONObject(request);
 		String userId = input.getString("user_id");
 		Item item = RpcHelper.parseFavoriteItem(input.getJSONObject("favorite"));
-
+		
 		connection.setFavoriteItems(userId, item);
 		connection.close();
 		RpcHelper.writeJsonObject(response, new JSONObject().put("result", "SUCCESS"));
