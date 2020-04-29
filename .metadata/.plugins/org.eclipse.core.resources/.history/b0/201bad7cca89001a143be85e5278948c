@@ -1,14 +1,12 @@
 package rpc;
 
 import java.io.IOException;
-import java.util.Set;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import db.MySQLConnection;
@@ -32,8 +30,8 @@ public class ItemHistoryNew extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String userId = request.getParameter("user_id");
-
+String userId = request.getParameter("user_id");
+		
 		MySQLConnection connection = new MySQLConnection();
 		Set<Item> items = connection.getFavoriteItems(userId);
 		connection.close();
