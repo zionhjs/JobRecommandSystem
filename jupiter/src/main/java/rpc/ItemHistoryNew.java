@@ -19,7 +19,7 @@ import entity.Item;
  */
 public class ItemHistoryNew extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
+
     /**
      * @see HttpServlet#HttpServlet()
      */

@@ -1,7 +1,7 @@
 package db;
 
 public class MySQLDBUtil {
-	private static final String INSTANCE = "laiproject-instance.cysujvr9jmns.us-west-1.rds.amazonaws.com";
+	private static final String INSTANCE = "database-1.cysujvr9jmns.us-west-1.rds.amazonaws.com";
 	private static final String PORT_NUM = "3306";
 	public static final String DB_NAME = "laiproject";
 	private static final String USERNAME = "admin";
