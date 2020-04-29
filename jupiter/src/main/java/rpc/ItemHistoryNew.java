@@ -39,6 +39,7 @@ public class ItemHistoryNew extends HttpServlet {
 		connection.close();
 		
 		JSONArray array = new JSONArray();
+		
 		for (Item item : items) {
 			JSONObject obj = item.toJSONObject();
 			obj.put("favorite", true);

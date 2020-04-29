@@ -11,7 +11,6 @@ import java.util.Set;
 import entity.Item;
 import entity.Item.ItemBuilder;
 
-
 public class MySQLConnection {
 	private Connection conn;
 
@@ -95,7 +94,7 @@ public class MySQLConnection {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public Set<String> getFavoriteItemIds(String userId) {
 		if (conn == null) {
 			System.err.println("DB connection failed");
