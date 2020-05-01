@@ -226,7 +226,11 @@ public class MySQLConnection {
 			statement.setString(3, firstname);
 			statement.setString(4, lastname);
 			
-			return statement.executeUpdate() == 1;
+			if(statement.executeUpdate() == 1) {
+				return true;
+			}else {
+				return false;
+			}
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}

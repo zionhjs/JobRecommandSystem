@@ -171,7 +171,7 @@ public class MySQLConnection {
 		}
 		return keywords;
 	}
-
+	
 	public String getFullname(String userId) {
 		if (conn == null) {
 			System.err.println("DB connection failed");
@@ -211,7 +211,7 @@ public class MySQLConnection {
 		}
 		return false;
 	}
-
+	
 	public boolean addUser(String userId, String password, String firstname, String lastname) {
 		if (conn == null) {
 			System.err.println("DB connection failed");
@@ -225,12 +225,14 @@ public class MySQLConnection {
 			statement.setString(2, password);
 			statement.setString(3, firstname);
 			statement.setString(4, lastname);
-			
+
 			return statement.executeUpdate() == 1;
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
 		return false;
 	}
-}
 
+	
+
+}

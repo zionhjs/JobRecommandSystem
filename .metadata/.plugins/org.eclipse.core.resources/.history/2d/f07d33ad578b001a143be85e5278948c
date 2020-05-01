@@ -193,7 +193,7 @@ public class MySQLConnection {
 	}
 	
 	public boolean verifyLogin(String userId, String password) {
-		if (conn == null) {
+		if(conn == null) {
 			System.err.println("DB connection failed");
 			return false;
 		}
@@ -203,34 +203,31 @@ public class MySQLConnection {
 			statement.setString(1, userId);
 			statement.setString(2, password);
 			ResultSet rs = statement.executeQuery();
-			if (rs.next()) {
+			if (rs.next()){
 				return true;
 			}
-		} catch (SQLException e) {
+		}catch(SQLException e) {
 			System.out.println(e.getMessage());
 		}
 		return false;
 	}
 
 	public boolean addUser(String userId, String password, String firstname, String lastname) {
-		if (conn == null) {
+		if(conn == null) {
 			System.err.println("DB connection failed");
 			return false;
 		}
-
 		String sql = "INSERT IGNORE INTO users VALUES (?, ?, ?, ?)";
 		try {
 			PreparedStatement statement = conn.prepareStatement(sql);
-			statement.setString(1, userId);
-			statement.setString(2, password);
-			statement.setString(3, firstname);
-			statement.setString(4, lastname);
-			
+			statement.setString(1,  userId);
+			statement.setString(2,  password);
+			statement.setString(3,  firstname);
+			statement.setString(4,  lastname);
 			return statement.executeUpdate() == 1;
-		} catch (SQLException e) {
+		}catch(SQLException e) {
 			e.printStackTrace();
 		}
 		return false;
 	}
 }
-
