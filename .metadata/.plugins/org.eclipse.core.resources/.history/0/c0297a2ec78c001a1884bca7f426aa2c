@@ -1,0 +1,25 @@
+package recommendation;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+import db.MySQLConnection;
+import entity.Item;
+import external.GitHubClient;
+
+public class Recommendation {
+	public List<Item> recommendItems(String userId, double lat, double lon){
+		List<Item> recommendedItems = new ArrayList<>();
+		
+		// Step 1, get all favorited itemids
+		MySQLConnection connection = new MySQLConnection();
+		Set<String> favoritedItemIds = connection.getFavoriteItemIds(userId);
+		
+	}
+}
