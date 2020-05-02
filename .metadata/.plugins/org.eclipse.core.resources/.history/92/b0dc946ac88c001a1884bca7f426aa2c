@@ -45,7 +45,7 @@ public class Recommendation {
 		
 		// Step 3, search based on keywords, filter out favorite items
 		Set<String> visitedItemIds = new HashSet<>();
-		GItHubClient client = new GItHubClient();
+		GitHubClient client = new GitHubClient();
 		
 		for (Entry<String, Integer> keyword : keywordList) {
 			List<Item> items = client.search(lat, lon, keyword.getKey());
