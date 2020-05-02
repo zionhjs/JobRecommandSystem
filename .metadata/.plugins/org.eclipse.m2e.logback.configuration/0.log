@@ -1671,3 +1671,23 @@
 2020-05-02 15:58:19,905 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
 2020-05-02 15:58:19,907 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-02 15:58:19,907 [Worker-271: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-05-02 16:01:47,525 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:01:47,525 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-05-02 16:01:47,528 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:01:47,528 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-05-02 16:02:57,197 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:02:57,197 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-05-02 16:02:57,199 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:02:57,199 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-05-02 16:03:22,089 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:22,089 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-05-02 16:03:22,091 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:22,091 [Worker-272: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-05-02 16:03:40,443 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:40,443 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-05-02 16:03:40,444 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:40,445 [Worker-277: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
+2020-05-02 16:03:48,660 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:48,660 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/main/resources
+2020-05-02 16:03:48,662 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:03:48,662 [Worker-273: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/zionhugh/GoogleDrive_Folder/Code_Practices/Eclipse/jupiter/src/test/resources
